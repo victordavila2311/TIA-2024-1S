@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto/Recursos.md",
+                "file": "Proyecto/Enlaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto/Recursos.md",
+                "file": "Proyecto/Enlaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto/Recursos.md",
+                "file": "Proyecto/Enlaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto/Recursos.md"
+                "file": "Proyecto/Enlaces.md"
               }
             }
           }
@@ -146,8 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4e629e66e1d5b53",
+  "active": "8fea904c087a28e6",
   "lastOpenFiles": [
-    "Proyecto/Recursos.md"
+    "Proyecto/Enlaces.md"
   ]
 }
