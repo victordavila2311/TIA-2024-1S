@@ -3,3 +3,4 @@
 ### Integrantes: 
 - Victor Dávila.
 - Oscar Restrepo.
+- Daniel Lozano Barrero.
